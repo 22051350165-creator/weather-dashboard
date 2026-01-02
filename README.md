@@ -180,3 +180,10 @@ This section recognizes tools, resources, and contributors involved in creating 
   - Cursor developers for providing AI-assisted coding features
 
 ---
+
+## Docker Instructions
+To build the image:
+`docker build -t weather-app .`
+
+To run the container:
+`docker run weather-app`
